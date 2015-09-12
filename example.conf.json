@@ -1,0 +1,10 @@
+{
+	"client_id": "YOUR-CLIENT-ID",
+	"client_secret": "YOUR-CLIENT-SECRET",
+	"project_id": "YOUR-PROJECT-ID",
+	"bucket_id": "YOUR-BUCKED-ID",
+	"source_directory": "/path/to/directory/you/want/to/upload",
+	"source_strip_prefix": "/path/to/directory/you/want/to/upload",
+	"state_file": "example.db.json",
+	"ignore_pattern": ".DS_Store"
+}
